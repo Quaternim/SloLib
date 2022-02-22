@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slothyinnit&label=Profile%20views&color=0e75b6&style=flat" alt="slothyinnit" /> </p>
 
-- 🔭 I’m currently working on [SloLib, a JS Library similar to jQuery](https://github.com/SlothyInnit/SloLib)
+<!-- - 🔭 I’m currently working on [SloLib, a JS Library similar to jQuery](https://github.com/SlothyInnit/SloLib)
 
 - 🌱 I’m currently learning **JS, HTML, CSS and Python**
 
 - 👨‍💻 All of my projects are available at [link-coming-soon](link-coming-soon)
 
-- ⚡ Fun fact **(add later)**
+- ⚡ Fun fact **(add later)** -->
 
 <h3 align="left">My CodePen:</h3>
 <p align="left">
