@@ -1,0 +1,16 @@
+
+
+NOTE:
+ "." means all, eg. "git add ."
+
+
+
+
+git init === creating new repository
+git add == = add file to repository
+git commit === commit changes to repository (-m "(message here)") adds a commit message
+git checkout (branch) === changes to branch (git checkout -b branch) adds a new branch
+git merge (branch) === merges commits from one branch to current branch (--squash makes commit messages cleaner)
+git remote add origin (url) then git push -u origin master === uploads to repository
+
+rm -rf .git === remove git from project

@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat:wght@500&family=Roboto:wght@700&display=swap");
+
+:root {
+  font-size: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #2e3440;
+}
+
+.navmain {
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+
+header {
+  background-color: #5e6a82;
+}
+
+li,
+a,
+.bcl {
+  font-family: "Comfortaa", sans-serif;
+  font-size: 1rem;
+  color: #e5e9f0;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px 10%;
+}
+
+.logo {
+  cursor: pointer;
+  margin-right: auto;
+  background-color: #5e6a82;
+}
+
+img {
+  width: 20%;
+  padding: 0;
+}
+
+.nav-links {
+  list-style: none;
+  background-color: #5e6a82;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 0px 20px;
+  background-color: #5e6a82;
+}
+
+.nav-links li a {
+  transition: all 0.3s ease 0s;
+  background-color: #5e6a82;
+}
+
+.nav-links li a:hover {
+  color: #0088a9;
+  background-color: #5e6a82;
+}
+
+.bcl {
+  padding: 0.6rem 1.3rem;
+  background-color: #e5e9f0;
+  border: none;
+  border-radius: 1rem;
+  transition: all 0.3s ease 0s;
+  color: #4c566b !important;
+  font-weight: bold;
+  pointer: cursor;
+  font-weight: 400;
+}
+
+.bclh:hover {
+  background-color: #6e6e6e;
+  cursor: pointer;
+}
