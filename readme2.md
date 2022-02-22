@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **(add later)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My CodePen:</h3>
 <p align="left">
 <a href="https://codepen.io/slothy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="slothy_" height="30" width="40" /></a>
 </p>
