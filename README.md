@@ -1,7 +1,6 @@
 <h1 align="center">SloLib</h1>
 <h3 align="center">My Custom JS Library, Similar to jQuery.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slothyinnit&label=Profile%20views&color=0e75b6&style=flat" alt="slothyinnit" /> </p>
 
 <!-- - 🔭 I’m currently working on [SloLib, a JS Library similar to jQuery](https://github.com/SlothyInnit/SloLib)
 
