@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat:wght@500&family=Roboto:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Comfortaa";
+}
+
+body {
+  background: #2e3440;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+.container {
+  display: grid;
+  grid-template-areas:
+    "header header header"
+    "content content content"
+    "content content content";
+  background: #a5a8af;
+}
+
+.hea {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 3rem;
+  background-color: #343946;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.ahea {
+  text-decoration: none;
+  color: currentColor;
+}
+
+.para {
+  font-family: "Comfortaa";
+  font-size: larger;
+  text-align: center;
+}
+
+.header {
+  background: #5e6a82;
+  overflow: hidden;
+  grid-area: header;
+  width: 100%;
+}
+
+.code {
+  background: #1e2129;
+  color: rgb(116, 188, 255);
+  font-size: large;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+  padding: 10px;
+}
+
+.dc {
+  margin-top: 5px;
+}
+
+.content {
+  grid-area: content;
+  background: #2e3440 !important;
+  padding: 30px;
+  justify-self: center;
+  height: 100vh;
+  border-top: solid 30px #a5a8af;
+  border-bottom: solid 30px #a5a8af;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  height: 100%;
+  border-right: solid 1px rgb(114, 114, 114);
+  border-bottom: solid 1px rgb(114, 114, 114);
+  font-size: 1.5em;
+}
+
+.nav {
+  justify-content: center;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+}
+.nav ul li a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  transition: all 0.5s ease;
+  padding: 20px;
+  padding-top: 100%;
+  padding-bottom: 100%;
+  font-size: larger;
+}
+
+.nav {
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+}
+
+.nav img {
+  width: 220px;
+  height: auto;
+  margin: 10px;
+  transition: all 0.5s ease;
+  margin-left: 10%;
+}
+
+.nav ul li a:hover {
+  color: #000;
+  background: #fff;
+}
