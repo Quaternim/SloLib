@@ -49,6 +49,7 @@ body {
   overflow: hidden;
   grid-area: header;
   width: 100%;
+  position: inherit;
 }
 
 .code {
@@ -63,6 +64,10 @@ body {
 
 .dc {
   margin-top: 5px;
+}
+
+.note {
+  color: red;
 }
 
 .content {
